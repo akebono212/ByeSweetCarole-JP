@@ -31,7 +31,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 
 ## 動作環境
 
-- 対応ゲームバージョン：Steam版（2026/11/4時点）
+- 対応ゲームバージョン：Steam版
 - BepInEx：BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.790+4e98359
 - XUnity.AutoTranslator：XUnity.AutoTranslator-BepInEx-IL2CPP-5.6.3.1
 
