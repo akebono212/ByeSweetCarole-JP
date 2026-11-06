@@ -18,6 +18,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 
 ゲームフォルダの `winhttp.dll` を削除すると、日本語化が無効になります。
 完全に削除する場合は、導入時にコピーした以下のファイル・フォルダ
+
 - BepInEx
 - dotnet
 - doorstop_config.ini
@@ -25,6 +26,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 - BepInEx_LICENSE.txt
 - XUnity.AutoTranslator_LICENSE.txt
 - OFL.txt
+- 
 を削除してください。
 
 ## 動作環境
