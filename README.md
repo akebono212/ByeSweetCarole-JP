@@ -5,7 +5,8 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 
 ## 導入方法
 
-1. ダウンロードは Assets の「ByeSweetCarole_JapaneseTranslation_v1.0.0.zip」を選んでください。「Source code」は導入には使用しません。
+1. ダウンロードは Releaseのクリックした先のAssets の「ByeSweetCarole_JapaneseTranslation_v1.0.0.zip」を選んでください。
+   「Source code」は導入には使用しません。
 2. zip を展開し、中身をすべてゲームフォルダ（`Bye Sweet Carole.exe` がある場所）にコピーします。
 3. ゲームを起動します。
 
