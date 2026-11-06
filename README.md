@@ -5,7 +5,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 
 ## 導入方法
 
-1. [Releases](../../releases) から最新の `Bye Sweet Carole Japanese Translation_v1.0.0.zip` をダウンロードします。
+1. [Releases](../../releases) から最新の `ByeSweetCaroleJapaneseTranslation_v1.0.0.zip` をダウンロードします。
 2. zip を展開し、中身をすべてゲームフォルダ（`Bye Sweet Carole.exe` がある場所）にコピーします。
 3. ゲームを起動します。
 
@@ -20,7 +20,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 
 ## 動作環境
 
-- 対応ゲームバージョン：Steam版（2026/11/4）
+- 対応ゲームバージョン：Steam版（2026/11/4時点）
 - BepInEx：BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.790+4e98359
 - XUnity.AutoTranslator：XUnity.AutoTranslator-BepInEx-IL2CPP-5.6.3.1
 
@@ -38,7 +38,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 
 ## 翻訳ファイルの扱い
 
-【例：個人での利用は自由です。改変・再配布する場合は、このリポジトリへのリンクを記載してください。】
+   個人での利用は自由です。改変・再配布する場合は、このリポジトリへのリンクを記載してください。
 
 ## 免責事項
 
