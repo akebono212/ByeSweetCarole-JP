@@ -26,7 +26,7 @@ XUnity.AutoTranslator を使用し、機械翻訳をもとに手作業で自然�
 - BepInEx_LICENSE.txt
 - XUnity.AutoTranslator_LICENSE.txt
 - OFL.txt
-- 
+
 を削除してください。
 
 ## 動作環境
